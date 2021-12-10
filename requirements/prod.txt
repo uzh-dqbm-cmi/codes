@@ -1,0 +1,8 @@
+# -------------------------- PRODUCTION -------------------------- #
+# Scraping
+selenium
+# lxml
+# beautifulsoup4
+
+# Data science
+pandas

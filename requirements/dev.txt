@@ -1,0 +1,5 @@
+# -------------------------- DEVELOPMENT -------------------------- #
+-r prod.txt
+
+# Jupyter
+jupyterlab
